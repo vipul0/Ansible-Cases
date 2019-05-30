@@ -1,5 +1,5 @@
 ---
-- hosts: cent7-node-1
+- hosts: node-1
   user: ansible
   become: yes
   tasks:
